@@ -12,6 +12,11 @@ nav {
     z-index: 10;
 }
 
+.dark-nav {
+    background-color: #212EA0;
+    transition: 0.5s;
+}
+
 .logo {
     width: 180px;
 }
